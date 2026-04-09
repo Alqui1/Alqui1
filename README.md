@@ -1,4 +1,12 @@
-## Hi there 👋
+## ¡Hola! 👋
+
+Soy David, pero puedes llamarme Alqui 👨‍🎓.
+
+🏁 Científico de la Computación - Universidad Nacional de Colombia.
+📚 Estudiante de Matemáticas - Universidad Nacional de Colombia.
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **Alqui1/Alqui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
