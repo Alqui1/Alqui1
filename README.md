@@ -7,7 +7,7 @@ Soy David, pero puedes llamarme Alqui 👨‍🎓.
 📚 Estudiante de Matemáticas - Universidad Nacional de Colombia.
 
 
-Tengo interés en la neurociencia computacional 🧠, inteligencia artificial 💻, matemáticas aplicadas 🔢 y análisis numérico 👓.
+Tengo interés en la neurociencia computacional 🧠, inteligencia artificial 💻, programación distribuida 🤯 y análisis numérico 👓.
 Adicionalmente, me gusta la ciberseguridad 🛡️ y el trabajo en entornos Linux 🐧.
 
 Me gusta trabajar con:
